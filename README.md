@@ -7,7 +7,7 @@ Download and install the example:
 Fill in the required parameters inside:
  `webform_mailchimp_example/src/Plugin/WebformHandler/newsletterSubscription.php` (more info inside this file)
 
-Create a webform, go to settings and then emails / handlers (/admin/structure/webform/manage/<webform_id>/handlers). Add the handler here. Make sure the webform has these fields:
+Create a webform, go to settings and then emails / handlers (`/admin/structure/webform/manage/<webform_id>/handlers`). Add the handler here. Make sure the webform has these fields:
 `first_name`
 `last_name`
 `e_mail`
