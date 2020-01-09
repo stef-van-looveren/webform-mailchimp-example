@@ -1,0 +1,7 @@
+name: Webform mailchimp example
+type: module
+description: Webform to mailchimp subscription
+core: 8.x
+package: CUSTOM
+depencencies:
+  - webform
