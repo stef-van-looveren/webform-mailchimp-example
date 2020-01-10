@@ -1,5 +1,5 @@
 # Drupal 8 webform mailchimp subscription example
-Plugin to easily subscribe to Mailchimp via a drupal 8 webform. Read about it here: [Mailchimp subscription with webform in drupal 8](https://stefvanlooveren.me/blog/how-create-mailchimp-subscription-drupal-8-webform-module).
+Plugin to easily subscribe to Mailchimp via a drupal 8 webform. Read about it here: [Mailchimp subscription with webform in drupal 8 (Video)](https://stefvanlooveren.me/blog/how-create-mailchimp-subscription-drupal-8-webform-module).
 ## How to
 Download and install the example:
 `drush en webform_mailchimp_example`
