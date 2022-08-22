@@ -3,7 +3,7 @@ namespace Drupal\webform_mailchimp_example\Plugin\WebformHandler;
 
 use Drupal\Core\Form\FormStateInterface;
 use Drupal\webform\Plugin\WebformHandlerBase;
-use Drupal\webform\webformSubmissionInterface;
+use Drupal\webform\WebformSubmissionInterface;
 
 /**
  * Form submission handler.
